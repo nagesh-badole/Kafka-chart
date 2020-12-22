@@ -1,4 +1,4 @@
-# CUSTOME CONFIURATION
+# CUSTOME CONFIGURATION
 
 To deploy with custom  configuration and explore the available paramaters visit https://github.com/bitnami/charts/tree/master/bitnami/kafka/#parameters
 
